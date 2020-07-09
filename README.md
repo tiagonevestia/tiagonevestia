@@ -1,4 +1,15 @@
-### Hi there 👋
+
+<div align="center">
+	<br>
+	<br>
+	<br>
+	<br>
+	<img src="./loading.svg" width="60" height="60">
+	<br>
+	<br>
+	<br>
+	<br>
+</div>
 
 <!--
 **tiagonevestia/tiagonevestia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
