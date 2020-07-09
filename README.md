@@ -4,7 +4,7 @@
 	<br>
 	<br>
 	<br>
-	<img src="./loading.svg" width="60" height="60">
+	<img src="https://github.com/tiagonevestia/tiagonevestia/raw/master/loading.svg" width="60" height="60">
 	<br>
 	<br>
 	<br>
